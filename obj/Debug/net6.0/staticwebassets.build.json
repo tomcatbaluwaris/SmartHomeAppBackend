@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "siz7hMqG4xlJQTdPJAuZchjebP6L4kElBK+HUD6wpGc=",
+  "Source": "SmartHomeAppBackend",
+  "BasePath": "_content/SmartHomeAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

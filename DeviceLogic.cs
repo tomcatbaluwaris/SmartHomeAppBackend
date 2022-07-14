@@ -1,4 +1,4 @@
-﻿using SmartHomeBackendTests;
+﻿
 
 namespace SmartHomeAppBackend;
 

@@ -1,4 +1,6 @@
-﻿namespace SmartHomeAppBackend;
+﻿using SmartHomeAppBackend;
+
+namespace SmartHomeAppBackend;
 
 public class AreasLogic
 {
